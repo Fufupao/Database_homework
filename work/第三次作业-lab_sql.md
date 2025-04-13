@@ -5,11 +5,11 @@
 1.
 - 新建一个`university`数据库。
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-20%20193455.png?raw=true)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.1.1.png?raw=true)
 
 - 执行`largeRelationsInsertFile.sql`，导入数据。
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-20%20201504.png?raw=true)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.1.2.png?raw=true)
 
 2.
 - 运行第2次作业的题目三代码。
