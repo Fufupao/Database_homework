@@ -14,9 +14,9 @@
 2.
 - 运行第2次作业的题目三代码。
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-01%20221804.png?raw=true)  
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.1.3.png?raw=true)  
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/846491a9b78e8a1cd236dedf4ddee53.png)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.1.4.png?raw=true)
 
 结果为空，没有找到符合要求的数据。
 
@@ -42,7 +42,7 @@ where name ~ 'S.*';
 
 运行结果均为：
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-22%20174705.png?raw=true)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.2.1.png?raw=true)
 
 ### 题目三
 > `psql`是PostgreSQL的命令行工具。请使用`psql`命令行工具：
@@ -55,17 +55,17 @@ where name ~ 'S.*';
 
 - 实现题目二
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-01%20224653.png)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.3.1.png?raw=true)
 
 - 列出所有的数据库
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-01%20224837.png)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.3.2.png?raw=true)
 
 - 列出当前数据库的所有表
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-01%20224717.png)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.3.3.png?raw=true)
 
 - 显示某张表的关系模式
 
-![](https://github.com/Fufupao/Database_homework/blob/main/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-01%20225135.png)
+![](https://github.com/Fufupao/Database_SQL/blob/main/image/work3/3.3.4.png?raw=true)
 
